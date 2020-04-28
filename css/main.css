@@ -1,0 +1,34 @@
+h1 {
+  font-family: sans-serif;
+  text-align: center;
+  color: white;
+}
+
+.s1 {
+  background: url("../images/one.jpg");
+  background-size: cover;
+}
+
+.s2 {
+  background: url("../images/two.jpg");
+  background-size: cover;
+}
+
+.s2 h1 {
+  text-align: left;
+  margin-left: 2em;
+  font-size: 3rem;
+}
+
+.s3 {
+  background: url("../images/three.jpg");
+  background-size: cover;
+}
+
+span {
+  background: white !important;
+}
+
+.fp-slidesNav ul {
+  text-align: center;
+}
