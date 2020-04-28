@@ -4,25 +4,26 @@ h1 {
   color: white;
 }
 
+#fullPage .section {
+  background-size: cover;
+  background-position: center;
+}
+
 .s1 {
   background: url("../images/one.jpg");
-  background-size: cover;
 }
 
 .s2 {
   background: url("../images/two.jpg");
-  background-size: cover;
 }
 
 .s2 h1 {
-  text-align: left;
-  margin-left: 2em;
   font-size: 3rem;
+  color: hotpink;
 }
 
 .s3 {
   background: url("../images/three.jpg");
-  background-size: cover;
 }
 
 span {
